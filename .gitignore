@@ -1,0 +1,11 @@
+# Bazel
+bazel-*
+
+# files created by manual tests
+*level.tree
+
+# Emacs temp files
+*~
+
+# Mac files (normally invisible)
+.DS_Store
